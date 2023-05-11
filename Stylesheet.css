@@ -1,0 +1,28 @@
+body {
+    /* background-color:blueviolet; */
+    text-align: center;
+    color: rgb(248, 247, 247);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    /* background-image: linear-gradient(to bottom right, rgb(91, 10, 91), rgb(208, 7, 144)); */
+    background-image: url("./images/RJx78a.webp");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1 {
+    color: rgb(12, 12, 12);
+    /* text-decoration: underline; */
+    font-size: 80px;
+    text-shadow: 0px 0px 4px rgb(226, 7, 226), 0px 0px 21px rgb(231, 9, 9) ;
+}
+
+img {
+    height: 650px;
+    width: 530px;
+    border-radius: 50px;
+}
+
+h3 {
+    text-shadow: 0px 2px 5px rgb(195, 8, 8);
+}
